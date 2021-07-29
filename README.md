@@ -13,7 +13,7 @@ See the demo: https://alula.github.io/organya-js/
 
 UI graphics were taken from original Organya source code: https://github.com/shbow/organya
 
-~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 This is a very slightly modified version: It now supports Org-03 (with the new drums and all).
 The demo index page has some small added perks:
