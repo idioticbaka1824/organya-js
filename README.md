@@ -22,4 +22,4 @@ The demo index page has some small added perks:
 - mute any track while playing
 - use arrow keys to go up/down/left/right on the piano roll canvas
 
-see [https://raadshaikh.000webhostapp.com/organya/org-index.html](https://raadshaikh.github.io/music/organya-js-03/org-index.html)
+see [https://raadshaikh.github.io/music/organya-js-03/org-index.html](https://raadshaikh.github.io/music/organya-js-03/org-index.html)
